@@ -1,4 +1,4 @@
 dRUMmACHINE
 ===========
 
-Pot controlled midi drum machine based on the concept of Mutble Instrument's Anushri drum sequencer.
+Pot controlled arduino midi drum machine based on the concept of Mutble Instrument's Anushri drum sequencer.
